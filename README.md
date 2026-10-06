@@ -4,7 +4,6 @@ Atuo há mais de 10 anos em tecnologia, com experiência em infraestrutura, sust
 
 Trabalho com AWS, Kubernetes/EKS, Docker, Linux, Terraform e pipelines de CI/CD em Azure DevOps, Jenkins e Harness. Também desenvolvo com Node.js, TypeScript e PostgreSQL. Minha experiência em suporte, redes e ambientes críticos me ajuda a investigar problemas que atravessam várias camadas da plataforma.
 
-Busco oportunidades **100% remotas** em DevOps, SRE, Engenharia de Plataforma, Infraestrutura e desenvolvimento backend.
 
 ## Projetos que mostram meu trabalho
 
