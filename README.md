@@ -1,16 +1,23 @@
-## Hi there 👋
+# Glauco Candido Santana Junior
 
-<!--
-**Glaucojr17/Glaucojr17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuo há mais de 10 anos em tecnologia, com experiência em infraestrutura, sustentação de aplicações e desenvolvimento. Meu foco hoje é DevOps, SRE e automação: gosto de entender como um serviço é entregue, como se comporta em produção e o que precisa mudar quando algo falha.
 
-Here are some ideas to get you started:
+Trabalho com AWS, Kubernetes/EKS, Docker, Linux, Terraform e pipelines de CI/CD em Azure DevOps, Jenkins e Harness. Também desenvolvo com Node.js, TypeScript e PostgreSQL. Minha experiência em suporte, redes e ambientes críticos me ajuda a investigar problemas que atravessam várias camadas da plataforma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco oportunidades **100% remotas** em DevOps, SRE, Engenharia de Plataforma, Infraestrutura e desenvolvimento backend.
+
+## Projetos que mostram meu trabalho
+
+| Projeto | O que você pode avaliar |
+| --- | --- |
+| [Laboratório de plataforma DevOps](https://github.com/Glaucojr17/devops-platform-lab) | API Node.js com testes, imagem Docker, recursos Kubernetes e Terraform, probes de saúde, métricas e pipelines de validação. O README separa o que foi executado do que ainda exige um cluster e ferramentas locais. |
+| [Automação de agentes Zabbix](https://github.com/Glaucojr17/Script-Instala-o-Agente-Zabbix) | Scripts de infraestrutura e um gerador parametrizado de configuração em Linux, com validação de entradas, TLS com PSK, testes e runbook. A [mudança revisável](https://github.com/Glaucojr17/Script-Instala-o-Agente-Zabbix/pull/1) registra a implementação. |
+| [Site VOLTTA System](https://github.com/Glaucojr17/voltta-system-site) | Site institucional responsivo em HTML, CSS e JavaScript. A [melhoria integrada](https://github.com/Glaucojr17/voltta-system-site/pull/1) documenta decisões, operação e valida páginas e referências locais no CI. |
+
+Também trabalho no VolttaSystem ERP/CRM, um projeto privado com backend Node.js/TypeScript, APIs REST, PostgreSQL e publicação em Linux. Preservo o código e os dados privados; os repositórios acima mostram trabalho que pode ser inspecionado publicamente.
+
+## Como trabalho
+
+Gosto de automatizar tarefas repetitivas, deixar mudanças revisáveis e documentar o suficiente para outra pessoa conseguir operar o serviço. Em incidentes, começo pelo impacto e pelas evidências, investigo logs, métricas, rede e dependências e só considero a mudança concluída depois de validar o resultado.
+
+📍 Maceió, AL · [Contato por e-mail](mailto:glaucojunior.017@gmail.com)
