@@ -10,6 +10,9 @@ Trabalho com AWS, Kubernetes/EKS, Docker, Linux, Terraform e pipelines de CI/CD 
 | Projeto | O que você pode avaliar |
 | --- | --- |
 | [Laboratório de plataforma DevOps](https://github.com/Glaucojr17/devops-platform-lab) | API Node.js com testes, imagem Docker, recursos Kubernetes e Terraform, probes de saúde, métricas e pipelines de validação. O README separa o que foi executado do que ainda exige um cluster e ferramentas locais. |
+| [Rede AWS com Terraform](https://github.com/Glaucojr17/aws-network-terraform-lab) | VPC em duas zonas, sub-redes públicas e isoladas, rotas explícitas e testes com provider simulado. O CI valida a topologia sem criar recursos pagos. |
+| [Entrega GitOps em Kubernetes](https://github.com/Glaucojr17/kubernetes-gitops-delivery) | Kustomize para dev/prod, Applications Argo CD, rollout em kind e smoke test HTTP. O README explica a política de sync e os limites do laboratório. |
+| [Observabilidade e incidente SRE](https://github.com/Glaucojr17/sre-observability-incident-lab) | Serviço Node instrumentado, Prometheus, Grafana, teste de alerta e runbook para investigar uma falha 503 reproduzível. |
 | [Automação de agentes Zabbix](https://github.com/Glaucojr17/Script-Instala-o-Agente-Zabbix) | Scripts de infraestrutura e um gerador parametrizado de configuração em Linux, com validação de entradas, TLS com PSK, testes e runbook. A [mudança revisável](https://github.com/Glaucojr17/Script-Instala-o-Agente-Zabbix/pull/1) registra a implementação. |
 | [Site VOLTTA System](https://github.com/Glaucojr17/voltta-system-site) | Site institucional responsivo em HTML, CSS e JavaScript. A [melhoria integrada](https://github.com/Glaucojr17/voltta-system-site/pull/1) documenta decisões, operação e valida páginas e referências locais no CI. |
 
